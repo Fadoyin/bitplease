@@ -1,0 +1,29 @@
+    *{
+    margin:0;
+    padding:0;
+    box-sizing: :border-box;
+}
+
+    .formcontainer{
+        background-color: white;
+        padding:10px;
+        border-radius: 5px;
+        box shadow: 0px
+    }
+
+    .formcontainer label{
+       font-size: 18px;
+       font-family: inter;
+       display: block;
+       margin-top:5px;
+       font-weight: bold;
+       text-transform: capitalize;
+    }
+    .formcontainer input{
+       /* width: 100%; */
+        display: block;
+        padding:10px;
+        color: #000;
+        border radius:5px;
+  
+    }
